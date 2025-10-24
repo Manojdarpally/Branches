@@ -1,2 +1,2 @@
-This is initial commit to init my repo
-# This is a sample project to demo git features.(Updated)
+This is a sample project to demo git features.(Updated)
+Follow these steps to init repo
